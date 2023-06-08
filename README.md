@@ -1,1 +1,3 @@
-# pursuit-protocol
+# Pursuit Protocol
+
+tis but a game
